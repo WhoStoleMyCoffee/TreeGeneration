@@ -6,11 +6,5 @@ This project requires:
 - ControlP5
 
 
-Controls:
+Controls:<br>
 Left & right arrows : change tree
-D_ANGLE             : how "wobbly" the tree is
-BRANCHOFF_RATE      : how many branches there are
-BRANCHOFF_ANGLE     : angle of branches
-MAX_BRANCH_D        : maximum number of branchoffs
-TENDENCY            : which direction the tree will tend to grow towards
-TENDENCY_STR        : the tendency's strength
